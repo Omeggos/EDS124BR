@@ -20,7 +20,7 @@ https://youtu.be/qnPjavOm7NQ
 
 ---
 
-[![Dancing problem](https://github.com/Omeggos/EDS124BR/assets/105466539/ab901a6d-5f7b-472b-ac48-158292334926)](https://youtu.be/S6FefCqXfsg)
+[![Animal loop](https://github.com/Omeggos/EDS124BR/assets/105466539/ab901a6d-5f7b-472b-ac48-158292334926)](https://youtu.be/frSIJ7d-yP0)
 
 If top link is not working use link on bottom.
 
