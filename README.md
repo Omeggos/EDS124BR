@@ -12,7 +12,7 @@ https://youtu.be/8vdFFgWf5V0
 
 ## Dancing problem
 
-[![Dancing problem](https://github.com/Omeggos/EDS124BR/assets/105466539/61ee167e-bbfd-41f0-a542-84b9d7b6da23)](https://youtu.be/qnPjavOm7NQ)
+[![Dancing problem](https://github.com/Omeggos/EDS124BR/assets/105466539/61ee167e-bbfd-41f0-a542-84b9d7b6da23)](https://youtu.be/6ku96RXZCuM)
 
 If top link is not working use link on bottom.
 
