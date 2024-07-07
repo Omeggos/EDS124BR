@@ -17,3 +17,11 @@ https://youtu.be/8vdFFgWf5V0
 If top link is not working use link on bottom.
 
 https://youtu.be/qnPjavOm7NQ
+
+---
+
+[![Dancing problem](https://github.com/Omeggos/EDS124BR/assets/105466539/ab901a6d-5f7b-472b-ac48-158292334926)](https://youtu.be/S6FefCqXfsg)
+
+If top link is not working use link on bottom.
+
+https://youtu.be/S6FefCqXfsg
